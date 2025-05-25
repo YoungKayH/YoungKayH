@@ -35,7 +35,7 @@ Como um passa tempo e fascinação por algo, gosto de entender como as coisas fu
 ### Na área de IA / Machine Learning
 
 <details>
-<summary>Experiência com ferramentas, bibliotecas e frameworks que possibilitam o desenvolvimento de soluções baseadas em dados.</summary>
+<summary>Estudos com ferramentas, bibliotecas e frameworks que possibilitam o desenvolvimento de soluções baseadas em dados.</summary>
 
   - [**Python**](https://www.python.org/): Linguagem principal para desenvolvimento de modelos e automações.
   - [**PyTorch**](https://pytorch.org/): Framework de deep learning para criação de modelos flexíveis e eficientes.
@@ -50,7 +50,7 @@ Como um passa tempo e fascinação por algo, gosto de entender como as coisas fu
 ### Na área de Programação em C#
 
 <details>
-<summary>Experiência com desenvolvimento de aplicações orientadas a objetos utilizando C#.</summary>
+<summary>Estudos com desenvolvimento de aplicações orientadas a objetos utilizando C#.</summary>
 
   - **Programação Orientada a Objetos (POO):** Estruturação de sistemas com reutilização de código, herança e encapsulamento.
   - **Windows Forms & WPF:** Criação de interfaces gráficas para aplicações desktop.
