@@ -80,12 +80,13 @@ Como um passa tempo e fascinação por algo, gosto de entender como as coisas fu
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoungKayH&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
 </div>
 
-<!-- Contador de Visitantes -->
+
+<!-- Contador de Visitantes
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YoungKayH}/count.svg" /></p> 
   <br>
-</div>
+</div> -->
 
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
